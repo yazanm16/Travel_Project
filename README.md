@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="" rel="noopener">
+ <img width=700px height="600" src="projectPic.png.png.png" alt="Project logo"></a>
+</p>
+<p align="center">
   <a href="" rel="noopener"></a>
 </p>
 
